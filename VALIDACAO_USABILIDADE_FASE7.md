@@ -3,9 +3,15 @@
 ## Método
 
 Três pessoas reais avaliaram o MVP apresentado e responderam às cinco perguntas
-padronizadas da validação. Os registros abaixo são anonimizados como
-Participantes A, B e C. Nenhuma senha, dado financeiro ou dado pessoal sensível
+padronizadas da validação. Os registros usam somente o primeiro nome e o perfil
+informado pelo grupo. Nenhuma senha, dado financeiro ou dado pessoal sensível
 foi coletado.
+
+| Participante | Perfil informado |
+|---|---|
+| João | Estudante de marketing, 23 anos |
+| Gabriela | Graduada em publicidade, 24 anos |
+| Márcio | Graduado em ciência da computação, 27 anos |
 
 ## Respostas registradas
 
@@ -13,41 +19,41 @@ foi coletado.
 
 | Participante | Resposta |
 |---|---|
-| A | Entendeu que a solução resolve o problema de cloud muito cara para founders sem investimento. |
-| B | Entendeu que a solução pode oferecer latência mais curta para sistemas críticos no Brasil sem exigir um servidor próprio. |
-| C | Gostou da ideia e associou a solução a mais segurança. |
+| João | Entendeu que a solução resolve o problema de cloud muito cara para founders sem investimento. |
+| Gabriela | Entendeu que a solução pode oferecer latência mais curta para sistemas críticos no Brasil sem exigir um servidor próprio. |
+| Márcio | Gostou da ideia e associou a solução a mais segurança. |
 
 ### 2. Qual parte foi mais fácil e qual foi mais difícil de usar?
 
 | Participante | Resposta |
 |---|---|
-| A | Achou fácil de usar no geral para um MVP que ainda não é real. |
-| B | Considerou que o site vende bem a ideia e que dá para perceber como funcionaria. |
-| C | Achou o sistema muito confuso, embora entenda que ele ainda é uma demonstração. |
+| João | Achou fácil de usar no geral para um MVP que ainda não é real. |
+| Gabriela | Considerou que o site vende bem a ideia e que dá para perceber como funcionaria. |
+| Márcio | Achou o sistema muito confuso, embora entenda que ele ainda é uma demonstração. |
 
 ### 3. Em algum momento você ficou sem saber onde clicar ou o que fazer?
 
 | Participante | Resposta |
 |---|---|
-| A | Não ficou sem saber onde clicar. |
-| B | Não ficou sem saber onde clicar. |
-| C | Sim. Relatou que ficou perdido logo no início. |
+| João | Não ficou sem saber onde clicar. |
+| Gabriela | Não ficou sem saber onde clicar. |
+| Márcio | Sim. Relatou que ficou perdido logo no início. |
 
 ### 4. Você entendeu o grupo computacional, os nós e o papel do Oracle?
 
 | Participante | Resposta |
 |---|---|
-| A | Sim. |
-| B | Sim. |
-| C | Sim. |
+| João | Sim. |
+| Gabriela | Sim. |
+| Márcio | Sim. |
 
 ### 5. O que você mudaria e qual nota daria para a facilidade de uso?
 
 | Participante | Resposta |
 |---|---|
-| A | Melhoraria a UI e buscaria um design mais original e profissional. |
-| B | Gostou do resultado e considerou o MVP bem consolidado. |
-| C | Investiria mais tempo e dinheiro em uma UI mais amigável. |
+| João | Melhoraria a UI e buscaria um design mais original e profissional. |
+| Gabriela | Gostou do resultado e considerou o MVP bem consolidado. |
+| Márcio | Investiria mais tempo e dinheiro em uma UI mais amigável. |
 
 ## Síntese dos aprendizados
 

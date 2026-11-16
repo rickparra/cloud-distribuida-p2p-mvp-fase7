@@ -115,8 +115,9 @@ locais ativos. Os dados usados no teste são sintéticos.
 
 - `DOCUMENTO_CONSOLIDADO_FASE7.md`: Canvas atualizado, monetização, custos,
   projeção financeira, KPIs, aquisição e roadmap de escala.
-- `VALIDACAO_USABILIDADE_FASE7.md`: respostas anonimizadas de três usuários
-  reais, síntese dos aprendizados e ajustes realizados.
+- `VALIDACAO_USABILIDADE_FASE7.md`: respostas de três usuários reais, registradas
+  com primeiro nome e perfil,
+  síntese dos aprendizados e ajustes realizados.
 - `output/pdf/Pitch_Fase7_Cloud_Distribuida.pdf`: pitch executivo em 10 páginas
   com problema, solução, MVP, Oracle, mercado, modelo de negócio e crescimento.
 
@@ -124,7 +125,8 @@ Para regenerar o PDF após editar o roteiro, instale `requirements-pitch.txt` e
 execute `python build_pitch_pdf.py`.
 
 Os números financeiros são cenários acadêmicos de planejamento. A validação de
-usabilidade está registrada separadamente e usa apenas respostas anonimizadas.
+usabilidade está registrada separadamente com o mínimo de identificação
+necessário para a atividade.
 
 ## Limites do MVP
 

@@ -220,7 +220,7 @@ tomada.
 ## Validação com usuários
 
 Três pessoas reais avaliaram o MVP e responderam a cinco perguntas padronizadas.
-O resultado completo, anonimizado como Participantes A, B e C, está em
+O resultado completo, registrado com primeiro nome e perfil, está em
 `VALIDACAO_USABILIDADE_FASE7.md`.
 
 O feedback confirmou a compreensão da proposta de cloud mais barata, menor
