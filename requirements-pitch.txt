@@ -1,0 +1,3 @@
+# Dependências opcionais para regenerar o pitch em PDF
+reportlab>=4.0
+pillow>=10.0

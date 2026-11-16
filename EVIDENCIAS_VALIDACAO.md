@@ -42,6 +42,9 @@ Database FIAP do schema de demonstração. Nenhuma credencial está neste pacote
 - O formulário de hospedagem aceita nome do grupo, HTML puro customizado e modo
   dividido ou concentrado. O grafo também permite desativar e reativar
   `BR-TEE-01`/`BR-TEE-02`; o worker responde `DISABLED` enquanto o nó está fora.
+- O pacote agora inclui `DOCUMENTO_CONSOLIDADO_FASE7.md`, com Canvas, modelo de
+  receita, custos, projeção, KPIs, aquisição e roadmap, além do pitch executivo
+  `output/pdf/Pitch_Fase7_Cloud_Distribuida.pdf`.
 - O ZIP foi extraído em pasta nova: `bash run.sh` criou o ambiente virtual,
   iniciou aplicação e dois workers; os 20 testes e `smoke_http.py` passaram
   usando somente os arquivos extraídos.

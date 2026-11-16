@@ -109,6 +109,21 @@ locais ativos. Os dados usados no teste são sintéticos.
 | `smoke_http.py` | Validação ponta a ponta |
 | `tests/` | Testes unitários |
 | `evidencias/` | Capturas usadas na validação da Fase 7 |
+| `requirements-pitch.txt` | Dependências opcionais para regenerar o PDF |
+
+## Entregáveis de negócio
+
+- `DOCUMENTO_CONSOLIDADO_FASE7.md`: Canvas atualizado, monetização, custos,
+  projeção financeira, KPIs, aquisição e roadmap de escala.
+- `output/pdf/Pitch_Fase7_Cloud_Distribuida.pdf`: pitch executivo em 10 páginas
+  com problema, solução, MVP, Oracle, mercado, modelo de negócio e crescimento.
+
+Para regenerar o PDF após editar o roteiro, instale `requirements-pitch.txt` e
+execute `python build_pitch_pdf.py`.
+
+Os números financeiros são cenários acadêmicos de planejamento. Antes da
+entrega final, registre também as três sessões reais de validação com usuários
+do público-alvo, incluindo feedback e ajustes realizados.
 
 ## Limites do MVP
 
