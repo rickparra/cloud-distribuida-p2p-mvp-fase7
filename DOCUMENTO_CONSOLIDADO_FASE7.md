@@ -169,6 +169,21 @@ rendimento financeiro ou valorização especulativa.
 O primeiro objetivo não é volume nacional. É provar liquidez local: poucos
 clientes com uso recorrente e operadores suficientes para responder rápido.
 
+## Posicionamento competitivo
+
+Para o primeiro cliente, a Cloud Distribuída P2P não se posiciona como uma
+substituta universal de AWS, Azure ou OCI. Ela entra como uma camada de compute
+complementar para cargas distribuíveis, em que custo, proximidade regional e
+evidência de execução importam mais do que elasticidade infinita.
+
+O diferencial é combinar marketplace de capacidade ociosa, regras de
+elegibilidade no Oracle e uma trilha verificável por execução. A comparação
+deve ser feita contra três alternativas: nuvem hyperscale com maior custo para
+cargas pequenas, hardware próprio com baixa flexibilidade e marketplaces de
+compute sem política de território e auditoria. A promessa inicial é simples:
+reservar capacidade adequada, executar a carga e mostrar como a decisão foi
+tomada.
+
 ## Roadmap de escala
 
 ### Agora - MVP acadêmico
@@ -202,13 +217,23 @@ clientes com uso recorrente e operadores suficientes para responder rápido.
 - Data Guard/RAC ou serviço gerenciado equivalente para o plano de controle;
 - expansão para setores regulados.
 
-## Validação e próximos registros
+## Validação com usuários
 
-Os testes automatizados e o smoke test do MVP validam o fluxo técnico. Para
-fechar a exigência acadêmica de validação, ainda devem ser realizadas três
-sessões reais com pessoas do público-alvo, registrando perfil, tarefa, dúvida,
-feedback, ajuste aplicado e conclusão sobre o problema da Fase 5. Participantes
-não devem ser inventados nem substituídos por simulações no documento final.
+Três pessoas reais avaliaram o MVP e responderam a cinco perguntas padronizadas.
+O resultado completo, anonimizado como Participantes A, B e C, está em
+`VALIDACAO_USABILIDADE_FASE7.md`.
+
+O feedback confirmou a compreensão da proposta de cloud mais barata, menor
+latência no Brasil e uso de capacidade ociosa. Os três participantes disseram
+entender grupo computacional, nós e Oracle. A principal dificuldade foi a
+interface: dois relatos pediram uma UI mais amigável e um participante ficou
+perdido logo no início.
+
+Como resposta, o MVP consolidou três rotas principais, passou a destacar apenas
+a página ativa, explicou o grupo antes da hospedagem, adicionou o botão de
+Hello World e tornou os controles dos nós explícitos. A conclusão é que o MVP
+resolve a demonstração do fluxo técnico, mas precisa de design visual e
+onboarding mais guiado antes de um piloto comercial.
 
 ## Conclusão
 

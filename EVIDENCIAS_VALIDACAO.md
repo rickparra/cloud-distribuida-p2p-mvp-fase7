@@ -45,6 +45,10 @@ Database FIAP do schema de demonstração. Nenhuma credencial está neste pacote
 - O pacote agora inclui `DOCUMENTO_CONSOLIDADO_FASE7.md`, com Canvas, modelo de
   receita, custos, projeção, KPIs, aquisição e roadmap, além do pitch executivo
   `output/pdf/Pitch_Fase7_Cloud_Distribuida.pdf`.
+- Três usuários reais avaliaram a compreensão da proposta, a navegação, o papel
+  do Oracle e a clareza da interface. O registro anonimizado está em
+  `VALIDACAO_USABILIDADE_FASE7.md`; a principal melhoria apontada foi tornar a
+  UI mais amigável e reduzir a confusão no primeiro contato.
 - O ZIP foi extraído em pasta nova: `bash run.sh` criou o ambiente virtual,
   iniciou aplicação e dois workers; os 20 testes e `smoke_http.py` passaram
   usando somente os arquivos extraídos.
